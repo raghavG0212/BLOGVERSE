@@ -143,7 +143,6 @@ We welcome contributions! Please feel free to open issues or submit pull request
 ## Contributors
 
 <a href="https://github.com/raghavG0212" target="_blank"><img src="https://avatars.githubusercontent.com/raghavG0212?s=60&v=4" width="60" height="60" alt="@raghavG0212" title="@raghavG0212" style="border-radius: 50%; margin-right: 10px;" onerror="this.src='https://github.com/identicons/raghavG0212.png'" /></a>
-<a href="https://github.com/raghav" target="_blank"><img src="https://avatars.githubusercontent.com/raghav?s=60&v=4" width="60" height="60" alt="@raghav" title="@raghav" style="border-radius: 50%; margin-right: 10px;" onerror="this.src='https://github.com/identicons/raghav.png'" /></a>
 
 
 ## License
